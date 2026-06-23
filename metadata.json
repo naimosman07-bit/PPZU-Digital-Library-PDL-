@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: PPZU Digital Library (PDL) v4",
+  "description": "Perpustakaan Digital PPZU (PDL) dengan fasiliti pencarian rujukan pintar, visualisasi infografik, tempahan buku fizikal, pembaca e-buku, serta pembantu pintar AI Akmal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
